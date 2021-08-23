@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic7&layout=compact)](https://github.com/generic7/github-readme-stats)
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=generic7)
