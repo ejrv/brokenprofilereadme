@@ -15,8 +15,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=generic7&theme=blue-green)
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=generic7/Python)
-## 4. Random Joke Generator
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=generic7)
 ### Repository View Counter - HITS
